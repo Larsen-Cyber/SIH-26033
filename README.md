@@ -4,7 +4,7 @@
 ## Name: B Kevin Larsen
 
 ## Problem Title
-SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
+SIH 26033: 
 
 ## Problem Creater's Organization
 Ministry of Consumer Affairs, Food & Public Distribution
